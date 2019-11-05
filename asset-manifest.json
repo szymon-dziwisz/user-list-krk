@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/user-list-krk/static/css/main.b100e6da.chunk.css",
+    "main.js": "/user-list-krk/static/js/main.cc1c7a6a.chunk.js",
+    "main.js.map": "/user-list-krk/static/js/main.cc1c7a6a.chunk.js.map",
+    "runtime-main.js": "/user-list-krk/static/js/runtime-main.680eedba.js",
+    "runtime-main.js.map": "/user-list-krk/static/js/runtime-main.680eedba.js.map",
+    "static/js/2.6edbfc48.chunk.js": "/user-list-krk/static/js/2.6edbfc48.chunk.js",
+    "static/js/2.6edbfc48.chunk.js.map": "/user-list-krk/static/js/2.6edbfc48.chunk.js.map",
+    "index.html": "/user-list-krk/index.html",
+    "precache-manifest.c9619e5a1f16f55bfdf4af70bf8b2dae.js": "/user-list-krk/precache-manifest.c9619e5a1f16f55bfdf4af70bf8b2dae.js",
+    "service-worker.js": "/user-list-krk/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/user-list-krk/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.680eedba.js",
+    "static/js/2.6edbfc48.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.cc1c7a6a.chunk.js"
+  ]
+}
